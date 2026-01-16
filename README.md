@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="AI Social Media Content Automation.png" alt="Neha Kumari - AI & LLM Enthusiast" width="100%" />
+</p>
+
+
 # 🚀 AI Social Media Automation Dashboard
 
 > **An AI-assisted, human-in-the-loop system for automating social media content creation, branding, and publishing — designed with real business workflows in mind.**
